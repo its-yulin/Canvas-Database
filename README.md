@@ -1,1 +1,2 @@
 # canvas-database
+This is a web application to replace Canvas, common college learning management system. The learning management system will allow students and faculty to manage grades and discussion questions seamlessly (think of this as simplified Canvas with Piazza support integrated seamlessly). This project involves both the backend (database design, creation, and population) and the frontend, which will use PHP to provide a dynamic website.
