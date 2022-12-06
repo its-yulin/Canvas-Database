@@ -1,0 +1,36 @@
+pid,cid,sid,ptitle,pdate,text
+1,9,bSZa17FK2l,Question 1 Clarification,2021/09/05 16:30:00,Are we to find countries who have won no medals and report all the last names associated with them or find the last names of all athletes who have no medals?
+2,9,A1Kcf8Z1u3,Assignment 1 Graded,2021/10/01 07:30:00,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.
+3,9,ize3lkeNiR,Assignment 1 Graded,2021/10/01 07:30:00,How do we setup the Yelp Server?
+4,9,Xo3aGKAsfE,Conceptual question - relational state vs relational schema,2021/09/05 10:15:00,Is there a difference between the two?
+5,9,A1Kcf8Z1u3,Assignment 1 Graded,2021/10/15 07:25:00,The grades for assignment 2 are on Canvas. Please see the assignment2_rubric.xlsx file for more details.
+6,9,fk7USWbA60,HW3 Q2,2021/10/09 08:30:00,Can we assume each city has a distance name?
+7,9,bSZa17FK2l,HW3,2021/10/15 07:48:00,Are we allowed to create a tempory table to hold intermediate results?
+8,9,A1Kcf8Z1u3,Assignment 4 Graded,2021/10/01 07:30:00,The grades for assignment 1 are on Gradescope. Please see today's slides for the regrade request policy.
+9,9,,,,
+10,8,8uv1aK9btU,A1 Tips,2021/09/14 11:45:00,We've had some great questions during office hours. Here are some FAQ for anyone that might have the same questions. If you resubmit an assignment don't worry about the added number. If you are worried that your code will not compile on our end; test it out by downloading your submitted code on Canvas and trying to compile it again.
+11,8,wUSNkrt2i7,Shuffle Deck,2021/10/01 14:35:00,Do we have to shuffle the deck at any point?
+12,8,AyZm6kgtLQ,Ace value,2021/10/01 19:01:00,When exactly do we make the ace a 1 v.s. an 11? Is the rule always to make it an 11 unless it would bust the hand? And what if the first two cards are aces do we make one 1 and the other 11?
+13,8,qBhsb9AT1D,Possible legal moves,2021/10/14 11:30:00,I'm a bit stumped on how to explore all the possible next moves for the knight whilst also pushing the new boards to the stack. How do I know that a move is legal?
+14,8,loWO7ep40W,Filename changed after resubmission,2021/10/16 08:37:00,The name of my file on canvas changed to KnightTour-1 after I resubmitted it and I just wanted to double check that this will not affect the testing of my code.ï
+15,8,AyZm6kgtLQ,Exceptions,2021/10/31 16:35:00,When we throw an exception does it need to stop the program immediately?
+16,8,,,,
+17,7,qjAClhRo8T,RA operation,2021/02/04 03:45:00,What does the bowtie symbol mean?
+18,7,I8k5HwpLlU,Midterm content,2021/04/09 19:13:00,What will be covered on the midterm?
+19,7,cp5asEx6KR,SQL server,2021/03/21 04:28:00,How do we install PostGresSQL on our local machine?
+20,7,AnRRwDoMFm,GROUP BY query,2021/03/29 04:47:00,Does it matter where GROUP BY is located?
+21,7,l8Ck5AEii7,Regrade request,2021/04/25 06:10:00,How do we submit a regrade request for the midterm?
+22,7,nlNo3Ifie2,Week 10 Prep,2021/04/10 12:31:00,Canvas is not allowing me to submit the weekly prep quiz. What should I do?
+23,7,fe20lUruvB,Week 11 Prep,2021/04/17 12:31:00,Does anybody have a link to the Google Cloud Platform?
+24,7,EIBGkZJ8LU,Final content,2021/05/01 05:40:00,What will be covered on the final?
+25,7,I8k5HwpLlU,Database normalization,2021/04/26 01:32:00,What is the difference between 2NF and 3NF?
+26,6,8uv1aK9btU,Java IDE,2020/09/15 06:53:00,Does anybody have any suggestions about a good IDE to use?
+27,6,WVztzxaqG1,Runtime,2020/10/13 22:39:00,My runtimes are larger than what is in the sample runtimes.txt file. Will I lose points?
+28,6,lKOmgoDP5M,Trouble with delete,2020/10/28 05:19:00,My delete in the double-ended link list isn't working. It deletes the entire list!
+29,6,pAA8hhbaAf,Shuffling for Quicksort,2020/11/12 08:59:00,What is the best way to shuffle an array at the start of quicksort?
+30,6,bCSKEQsp82,BST item deletion,2020/11/28 03:35:00,How do you delete if it's not the min or max value?
+31,5,WJrWAidLZ5,Music Industry database Trouble,2020/02/28 05:50:00,I am trying to create a local copy of the database but it takes an absurdly long time. What should I do?
+32,5,tmt3aPs20s,Java GUI,2020/04/01 00:30:00,Does it matter if my GUI is ugly?
+33,5,PiQvBSPut9,JDK version,2020/04/02 14:24:00,Which JDK version should we be using?
+34,5,tmt3aPs20s,Sample midterms,2020/04/10 13:02:00,Are there sample midterm exams?
+35,5,PiQvBSPut9,Sample final exams,2020/05/01 02:08:00,Are there solutions for the sample final exams?

@@ -1,0 +1,53 @@
+cid,pid,rid,sid,rtime,reply
+5,31,1,JulFHBBgP9,2020/02/28 07:41:00,Please try using the GCP instance to avoid having to implement your local copy.
+5,32,2,fC8CoZyN8g,2020/04/01 02:35:00,No it doesn't matter so long as it can functionally browse the database.
+5,33,3,tmt3aPs20s,2020/04/01 11:05:00,Do I need to sanitize the user input?
+5,33,4,JulFHBBgP9,2020/04/01 14:15:00,You can assume that we will be reasonable users and not try to hack your system.
+5,33,5,WJrWAidLZ5,2020/04/02 19:47:00,I believe we should be using JDK 8.0
+5,34,6,JulFHBBgP9,2020/04/10 14:49:00,Yes they have been uploaded onto Canvas.
+5,35,7,JulFHBBgP9,2020/05/02 05:37:00,No there won't be any solutions for the sample final problems.
+6,26,8,RxNqRHaaoI,2020/09/15 08:01:00,I like Sublime Text Editor and using the command line to compile
+6,27,9,RwKSObZt8b,2020/09/15 08:23:00,Have you tried Eclipse? It's the best!
+6,27,10,AnRRwDoMFm,2020/09/15 11:04:00,What about Netbeans? It was originally part of the JDK.
+6,27,11,ECk9NPOnC1,2020/09/15 11:05:00,IntelliJ is also another useful IDE
+6,27,12,JulFHBBgP9,2020/09/15 11:55:00,Microsoft Visual Studio has a student developer pack as well.
+6,27,13,ECk9NPOnC1,2020/10/13 22:55:00,As long as its within reasonable time frames you will not be deducted points.
+6,28,14,ECk9NPOnC1,2020/10/28 05:19:00,You may want to verify that you are appropriately updating your variables. Try using System.out.println.
+6,29,15,JulFHBBgP9,2020/11/12 14:10:00,You may want to explore different shuffle variants that are found on Wikipedia.
+6,30,16,JulFHBBgP9,2020/11/28 09:18:00,You may want to rewatch the lecture 23 and reread the slides to see how this is solved for the general case.
+7,17,17,v9ksRoAENe,2021/02/04 07:05:00,I think the bowtie means natural join
+7,19,18,A1Kcf8Z1u3,2021/03/21 10:59:00,Use homebrew to install Postgres on Mac and Linux. Download the windows installer to install on Windows.
+7,20,19,OhfDW5FQet,2021/03/29 04:47:00,I think it does matter. I must be after the WHERE clause and before the HAVING; LIMIT; and ORDER BY
+7,21,20,A1Kcf8Z1u3,2021/03/29 09:35:00,Hanna is correct. SQL first executes the FROM; then WHERE; before finally performing the GROUP BY clause
+7,18,21,JulFHBBgP9,2021/04/09 20:26:00,Everything up until today's lecture can be included as material on the exam
+7,22,22,Rjuqf7P3nX,2021/04/10 17:01:00,Have you tried reloading the page or clearing your cache?
+7,23,23,QVsfnLS8nP,2021/04/17 16:11:00,Try cloud.google.com
+7,21,24,JulFHBBgP9,2021/04/25 13:39:00,Please submit a regrade request via email to me with the email header [CS377]
+7,25,25,JulFHBBgP9,2021/04/26 07:35:00,2NF looks at partial functional dependency while 3NF ensures no non-prime attribute functionally determines another non-prime attribute
+6,26,26,qjAClhRo8T,2021/04/26 08:11:00,Why is database normalization important?
+6,26,27,Rjuqf7P3nX,2021/04/26 12:41:00,Database normalization is important because it's a rite of passage into the database community
+7,24,28,JulFHBBgP9,2021/05/01 05:48:00,Everything covered in the class can appear on the final exam
+9,4,29,ize3lkeNiR,2021/09/05 13:35:00,The relational schema is the structure and design of the relation such as the attribute list. The relation state is like the table content at any given moment.
+9,5,30,A1Kcf8Z1u3,2021/09/05 15:45:00,You can draw an analogy between the relational schema and classes in Java. Then you can think of relation state as the objects that are defined at that particular time.
+9,1,31,ize3lkeNiR,2021/09/05 16:35:00,I think we are trying to list out the last name of the athletes that are in countries that neither have competed yet or none of their athletes have ranked in the top 3 so far.
+9,1,32,WJrWAidLZ5,2021/09/05 20:45:00,Yes Elaine is correct in this response.
+8,11,33,qBhsb9AT1D,2021/10/01 17:41:00,I believe just choosing a random card from the deck to deal out cards is enough.
+8,12,34,A1Kcf8Z1u3,2021/10/01 18:51:00,As long as there is some point of randomness that is involved it will be sufficient.
+8,12,35,wUSNkrt2i7,2021/10/01 20:23:00,I think there's no specific rule in Blackjack for when an ace is counted as a 1 or an 11. I assumed we have to keep track of the total score in both cases: when the ace is a 1 and when the ace is an 11.
+8,13,36,RxNqRHaaoI,2021/10/01 23:22:00,The general rule of thumb is that the Ace will take on the value of whatever will help the holder the most
+8,12,37,YXCMIivcy6,2021/10/03 04:32:00,Should we consider the situation when the deck is running out of cards?
+8,12,38,cp5asEx6KR,2021/10/03 08:47:00,Yes your application should gracefully handle this situation.
+9,6,39,A1Kcf8Z1u3,2021/10/09 10:24:00,You can assume that each city has a distance name so you would consider Atlanta GA to be the same name as Atlanta FL
+8,13,40,YXCMIivcy6,2021/10/14 17:11:00,Take advantage of what the method move() returns. It is true in certain situations and false in others. You can then push depending on the value.
+8,14,41,RwKSObZt8b,2021/10/15 05:19:00,The move method checks if a move is legal for you. You should use this method to change the behavior of your code based on whether or not it returns true or false.
+9,5,42,ize3lkeNiR,2021/10/15 13:32:00,The numbers seem to be incorrect and it seems the points were posted?
+9,6,43,A1Kcf8Z1u3,2021/10/15 20:02:00,Sorry about the mistake the correct question items were posted now.
+9,6,44,A3mMrNEFsy,2021/10/15 23:32:00,Where can we find the spreadsheet?
+9,6,45,tmt3aPs20s,2021/10/15 23:59:00,The spreadsheet is under the Assignment2 folder.
+9,6,46,A3mMrNEFsy,2021/10/16 00:11:00,Thanks Nikhil!
+9,7,47,PiQvBSPut9,2021/10/16 06:23:00,You can use temporal relations (see WITH and FROM) to do this rather than create temporary tables
+8,14,48,qBhsb9AT1D,2021/10/16 10:04:00,This actually happened to me as well on the previous assignment. I was told that I wouldn't be penalized so I think you'll be fine
+8,15,49,QVsfnLS8nP,2021/10/16 12:01:00,Resubmissions with the same filename on Canvas will automatically add a -1 etc to the files. The student answer is correct in that you will not be penalized for this.
+9,7,50,Xo3aGKAsfE,2021/10/25 13:45:00,Does this apply for Q9 as well?
+9,7,51,,2021/10/25 18:21:00,Not sure which part you are asking but if its whether Beaverton only exists in OR then no.
+8,15,52,wUSNkrt2i7,2021/10/31 20:01:00,Exceptions stop execution

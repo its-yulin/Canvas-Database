@@ -1,0 +1,1368 @@
+cid,aname,sid,grade
+1,Assignment1,A1Kcf8Z1u3,78
+1,Assignment1,Rjuqf7P3nX,96
+1,Assignment1,ECk9NPOnC1,88
+1,Assignment1,0nYGfSzH52,83
+1,Assignment1,8BdlWK9mvn,87
+1,Assignment1,hEp6l3yRkB,73
+1,Assignment1,vrSPzDaBog,46
+1,Assignment1,yVEE6glmyP,52
+1,Assignment1,4D8d5NFQey,74
+1,Assignment1,tmil3gYi8I,55
+1,Assignment1,stB2damzF1,94
+1,Assignment1,Q5zYQSo07T,73
+2,Assignment1,WJrWAidLZ5,95
+2,Assignment1,l8fb19WIds,88
+2,Assignment1,DlK1RDF6DZ,69
+2,Assignment1,s8jX7v1r9L,80
+2,Assignment1,qSaWq5Khmt,78
+2,Assignment1,JEdJCRTwMu,98
+2,Assignment1,LbOIaCTwOR,78
+2,Assignment1,F8SGo1rfbJ,81
+2,Assignment1,aDQQtN7BnB,90
+2,Assignment1,w4xX1lvTG7,68
+2,Assignment1,ixYZCGpl5D,58
+2,Assignment1,iep724zbM3,63
+2,Assignment1,rRMSF0EH7d,71
+2,Assignment1,EWUS9AaKts,89
+3,Homework1,A1Kcf8Z1u3,62
+3,Homework1,Rjuqf7P3nX,100
+3,Homework1,ECk9NPOnC1,60
+3,Homework1,0nYGfSzH52,63
+3,Homework1,8BdlWK9mvn,86
+3,Homework1,hEp6l3yRkB,56
+3,Homework1,vrSPzDaBog,48
+3,Homework1,yVEE6glmyP,56
+3,Homework1,4D8d5NFQey,63
+3,Homework1,tmil3gYi8I,74
+3,Homework1,stB2damzF1,57
+3,Homework1,Q5zYQSo07T,78
+3,Homework1,s8jX7v1r9L,77
+3,Homework1,qSaWq5Khmt,59
+3,Homework1,JEdJCRTwMu,86
+3,Homework1,LbOIaCTwOR,98
+3,Homework1,F8SGo1rfbJ,86
+3,Homework1,aDQQtN7BnB,86
+3,Homework1,w4xX1lvTG7,75
+3,Homework1,ixYZCGpl5D,64
+4,Assignment1,tmt3aPs20s,95
+4,Assignment1,QrcaEXMLnx,89
+4,Assignment1,VxX7KCsBEi,70
+4,Assignment1,PiQvBSPut9,70
+4,Assignment1,MvygDkC5GZ,44
+4,Assignment1,pSE2USVUGe,73
+4,Assignment1,uZfhzJCf3Q,30
+4,Assignment1,2ruNWPmicg,29
+4,Assignment1,5xTn7laQAz,57
+4,Assignment1,UPLEFa48ob,29
+4,Assignment1,g0aGB2MNq6,89
+4,Assignment1,vMCwbZJ5UI,61
+4,Assignment1,P80TDV5kec,69
+4,Assignment1,UX8dL9oWOH,85
+4,Assignment1,erGZXNCSa8,39
+4,Assignment1,aKtF7xlCj,95
+4,Assignment1,OcbMCqoATE,35
+4,Assignment1,Ki437ImMiB,96
+4,Assignment1,VkA4Ln4RP8,99
+4,Assignment1,Vv5mvmR93y,36
+4,Assignment1,9mCMQL1myp,37
+4,Assignment1,FGVfybCruk,44
+4,Assignment1,ybgAEICak2,81
+5,Assignment1,WJrWAidLZ5,93
+5,Assignment1,tmt3aPs20s,67
+5,Assignment1,PiQvBSPut9,94
+5,Assignment1,pSE2USVUGe,53
+5,Assignment1,uZfhzJCf3Q,98
+5,Assignment1,2ruNWPmicg,83
+5,Assignment1,5xTn7laQAz,92
+5,Assignment1,UPLEFa48ob,90
+5,Assignment1,g0aGB2MNq6,79
+5,Assignment1,vMCwbZJ5UI,69
+5,Assignment1,P80TDV5kec,80
+5,Assignment1,UX8dL9oWOH,59
+5,Assignment1,erGZXNCSa8,69
+5,Assignment1,aKtF7xlCj,99
+5,Assignment1,OcbMCqoATE,47
+5,Assignment1,Ki437ImMiB,67
+5,Assignment1,VkA4Ln4RP8,92
+5,Assignment1,Vv5mvmR93y,89
+5,Assignment1,9mCMQL1myp,63
+6,Project1,8uv1aK9btU,65
+6,Project1,cp5asEx6KR,97
+6,Project1,RxNqRHaaoI,98
+6,Project1,AnRRwDoMFm,91
+6,Project1,RwKSObZt8b,96
+6,Project1,QVsfnLS8nP,96
+6,Project1,piajOfWMIT,61
+6,Project1,lKOmgoDP5M,82
+6,Project1,xrWlqSyLPV,99
+6,Project1,k4hG2bKBi2,47
+6,Project1,OhfDW5FQet,79
+6,Project1,0Bb2zMzQAL,84
+6,Project1,qjAClhRo8T,86
+6,Project1,MMNPTkNHZg,100
+6,Project1,v9ksRoAENe,95
+6,Project1,I8k5HwpLlU,71
+6,Project1,pAA8hhbaAf,45
+6,Project1,kJQAvxlegv,94
+6,Project1,l8Ck5AEii7,55
+6,Project1,EIBGkZJ8LU,50
+6,Project1,WVztzxaqG1,57
+6,Project1,nlNo3Ifie2,88
+6,Project1,fe20lUruvB,78
+6,Project1,q24FfeogSR,75
+6,Project1,1aRjlUAYpO,68
+6,Project1,WUMHFJy3AG,51
+6,Project1,ujARr06uDs,51
+6,Project1,RtDWbzvtoo,64
+6,Project1,bCSKEQsp82,98
+7,Assignment1,xshALL98rR,80
+7,Assignment1,8uv1aK9btU,84
+7,Assignment1,cp5asEx6KR,69
+7,Assignment1,RxNqRHaaoI,77
+7,Assignment1,AnRRwDoMFm,77
+7,Assignment1,RwKSObZt8b,80
+7,Assignment1,QVsfnLS8nP,61
+7,Assignment1,qjAClhRo8T,47
+7,Assignment1,MMNPTkNHZg,71
+7,Assignment1,v9ksRoAENe,90
+7,Assignment1,I8k5HwpLlU,91
+7,Assignment1,pAA8hhbaAf,48
+7,Assignment1,kJQAvxlegv,69
+7,Assignment1,l8Ck5AEii7,46
+7,Assignment1,EIBGkZJ8LU,65
+7,Assignment1,WVztzxaqG1,51
+7,Assignment1,nlNo3Ifie2,96
+7,Assignment1,fe20lUruvB,75
+7,Assignment1,k4hG2bKBi2,69
+7,Assignment1,OhfDW5FQet,96
+8,Assignment1,qBhsb9AT1D,73
+8,Assignment1,wUSNkrt2i7,63
+8,Assignment1,YXCMIivcy6,85
+8,Assignment1,loWO7ep40W,78
+8,Assignment1,AyZm6kgtLQ,67
+8,Assignment1,RCkC4TjYNZ,87
+8,Assignment1,SGDgfAoZn8,90
+8,Assignment1,UuUxEvmxXO,75
+8,Assignment1,9wHtriXf8s,73
+8,Assignment1,j3BjhOJA0K,92
+8,Assignment1,77JVECgA9Y,82
+8,Assignment1,LRH33DL7sR,63
+8,Assignment1,82rggZxf5c,67
+8,Assignment1,ffD2jzc574,81
+8,Assignment1,zMdmtuvTDn,67
+8,Assignment1,4RygfhpS1h,78
+8,Assignment1,WW56HAP2R1,99
+8,Assignment1,Sx6sqg2Av5,96
+8,Assignment1,Oojd410rxz,79
+9,Assignment1,bSZa17FK2l,67
+9,Assignment1,A3mMrNEFsy,62
+9,Assignment1,ize3lkeNiR,71
+9,Assignment1,fk7USWbA60,75
+9,Assignment1,Xo3aGKAsfE,98
+9,Assignment1,q24FfeogSR,98
+9,Assignment1,1aRjlUAYpO,98
+9,Assignment1,WUMHFJy3AG,98
+9,Assignment1,ujARr06uDs,98
+9,Assignment1,RtDWbzvtoo,98
+9,Assignment1,bCSKEQsp82,98
+1,Assignment2,A1Kcf8Z1u3,67
+1,Assignment2,Rjuqf7P3nX,71
+1,Assignment2,ECk9NPOnC1,60
+1,Assignment2,0nYGfSzH52,100
+1,Assignment2,8BdlWK9mvn,56
+1,Assignment2,hEp6l3yRkB,88
+1,Assignment2,vrSPzDaBog,51
+1,Assignment2,yVEE6glmyP,88
+1,Assignment2,4D8d5NFQey,96
+1,Assignment2,tmil3gYi8I,56
+1,Assignment2,stB2damzF1,47
+1,Assignment2,Q5zYQSo07T,82
+2,Assignment2,WJrWAidLZ5,72
+2,Assignment2,l8fb19WIds,70
+2,Assignment2,DlK1RDF6DZ,61
+2,Assignment2,s8jX7v1r9L,46
+2,Assignment2,qSaWq5Khmt,90
+2,Assignment2,JEdJCRTwMu,52
+2,Assignment2,LbOIaCTwOR,69
+2,Assignment2,F8SGo1rfbJ,91
+2,Assignment2,aDQQtN7BnB,78
+2,Assignment2,w4xX1lvTG7,45
+2,Assignment2,ixYZCGpl5D,45
+2,Assignment2,iep724zbM3,61
+2,Assignment2,rRMSF0EH7d,75
+2,Assignment2,EWUS9AaKts,67
+3,Homework2,A1Kcf8Z1u3,95
+3,Homework2,Rjuqf7P3nX,92
+3,Homework2,ECk9NPOnC1,81
+3,Homework2,0nYGfSzH52,71
+3,Homework2,8BdlWK9mvn,68
+3,Homework2,hEp6l3yRkB,71
+3,Homework2,vrSPzDaBog,76
+3,Homework2,yVEE6glmyP,88
+3,Homework2,4D8d5NFQey,58
+3,Homework2,tmil3gYi8I,47
+3,Homework2,stB2damzF1,92
+3,Homework2,Q5zYQSo07T,78
+3,Homework2,s8jX7v1r9L,88
+3,Homework2,qSaWq5Khmt,52
+3,Homework2,JEdJCRTwMu,77
+3,Homework2,LbOIaCTwOR,71
+3,Homework2,F8SGo1rfbJ,93
+3,Homework2,aDQQtN7BnB,74
+3,Homework2,w4xX1lvTG7,89
+3,Homework2,ixYZCGpl5D,45
+4,Assignment2,tmt3aPs20s,83
+4,Assignment2,QrcaEXMLnx,95
+4,Assignment2,VxX7KCsBEi,95
+4,Assignment2,PiQvBSPut9,91
+4,Assignment2,MvygDkC5GZ,71
+4,Assignment2,pSE2USVUGe,52
+4,Assignment2,uZfhzJCf3Q,86
+4,Assignment2,2ruNWPmicg,94
+4,Assignment2,5xTn7laQAz,36
+4,Assignment2,UPLEFa48ob,91
+4,Assignment2,g0aGB2MNq6,47
+4,Assignment2,vMCwbZJ5UI,70
+4,Assignment2,P80TDV5kec,100
+4,Assignment2,UX8dL9oWOH,62
+4,Assignment2,erGZXNCSa8,35
+4,Assignment2,aKtF7xlCj,71
+4,Assignment2,OcbMCqoATE,93
+4,Assignment2,Ki437ImMiB,99
+4,Assignment2,VkA4Ln4RP8,79
+4,Assignment2,Vv5mvmR93y,85
+4,Assignment2,9mCMQL1myp,92
+4,Assignment2,FGVfybCruk,28
+4,Assignment2,ybgAEICak2,29
+5,Assignment2,WJrWAidLZ5,86
+5,Assignment2,tmt3aPs20s,63
+5,Assignment2,PiQvBSPut9,70
+5,Assignment2,pSE2USVUGe,47
+5,Assignment2,uZfhzJCf3Q,46
+5,Assignment2,2ruNWPmicg,48
+5,Assignment2,5xTn7laQAz,54
+5,Assignment2,UPLEFa48ob,81
+5,Assignment2,g0aGB2MNq6,69
+5,Assignment2,vMCwbZJ5UI,68
+5,Assignment2,P80TDV5kec,57
+5,Assignment2,UX8dL9oWOH,83
+5,Assignment2,erGZXNCSa8,49
+5,Assignment2,aKtF7xlCj,93
+5,Assignment2,OcbMCqoATE,78
+5,Assignment2,Ki437ImMiB,53
+5,Assignment2,VkA4Ln4RP8,70
+5,Assignment2,Vv5mvmR93y,87
+5,Assignment2,9mCMQL1myp,73
+6,Project2,8uv1aK9btU,99
+6,Project2,cp5asEx6KR,86
+6,Project2,RxNqRHaaoI,85
+6,Project2,AnRRwDoMFm,71
+6,Project2,RwKSObZt8b,60
+6,Project2,QVsfnLS8nP,71
+6,Project2,piajOfWMIT,68
+6,Project2,lKOmgoDP5M,84
+6,Project2,xrWlqSyLPV,98
+6,Project2,k4hG2bKBi2,90
+6,Project2,OhfDW5FQet,77
+6,Project2,0Bb2zMzQAL,69
+6,Project2,qjAClhRo8T,66
+6,Project2,MMNPTkNHZg,100
+6,Project2,v9ksRoAENe,81
+6,Project2,I8k5HwpLlU,87
+6,Project2,pAA8hhbaAf,75
+6,Project2,kJQAvxlegv,56
+6,Project2,l8Ck5AEii7,65
+6,Project2,EIBGkZJ8LU,96
+6,Project2,WVztzxaqG1,79
+6,Project2,nlNo3Ifie2,71
+6,Project2,fe20lUruvB,55
+6,Project2,q24FfeogSR,98
+6,Project2,1aRjlUAYpO,76
+6,Project2,WUMHFJy3AG,93
+6,Project2,ujARr06uDs,97
+6,Project2,RtDWbzvtoo,55
+6,Project2,bCSKEQsp82,60
+7,Assignment2,xshALL98rR,63
+7,Assignment2,8uv1aK9btU,88
+7,Assignment2,cp5asEx6KR,70
+7,Assignment2,RxNqRHaaoI,63
+7,Assignment2,AnRRwDoMFm,65
+7,Assignment2,RwKSObZt8b,99
+7,Assignment2,QVsfnLS8nP,70
+7,Assignment2,qjAClhRo8T,58
+7,Assignment2,MMNPTkNHZg,74
+7,Assignment2,v9ksRoAENe,81
+7,Assignment2,I8k5HwpLlU,65
+7,Assignment2,pAA8hhbaAf,90
+7,Assignment2,kJQAvxlegv,78
+7,Assignment2,l8Ck5AEii7,88
+7,Assignment2,EIBGkZJ8LU,96
+7,Assignment2,WVztzxaqG1,78
+7,Assignment2,nlNo3Ifie2,78
+7,Assignment2,fe20lUruvB,94
+7,Assignment2,k4hG2bKBi2,85
+7,Assignment2,OhfDW5FQet,96
+8,Assignment2,qBhsb9AT1D,73
+8,Assignment2,wUSNkrt2i7,72
+8,Assignment2,YXCMIivcy6,70
+8,Assignment2,loWO7ep40W,84
+8,Assignment2,AyZm6kgtLQ,78
+8,Assignment2,RCkC4TjYNZ,83
+8,Assignment2,SGDgfAoZn8,82
+8,Assignment2,UuUxEvmxXO,52
+8,Assignment2,9wHtriXf8s,83
+8,Assignment2,j3BjhOJA0K,66
+8,Assignment2,77JVECgA9Y,57
+8,Assignment2,LRH33DL7sR,70
+8,Assignment2,82rggZxf5c,61
+8,Assignment2,ffD2jzc574,51
+8,Assignment2,zMdmtuvTDn,69
+8,Assignment2,4RygfhpS1h,50
+8,Assignment2,WW56HAP2R1,76
+8,Assignment2,Sx6sqg2Av5,50
+8,Assignment2,Oojd410rxz,95
+9,Assignment2,bSZa17FK2l,97
+9,Assignment2,A3mMrNEFsy,75
+9,Assignment2,ize3lkeNiR,86
+9,Assignment2,fk7USWbA60,93
+9,Assignment2,Xo3aGKAsfE,99
+9,Assignment2,q24FfeogSR,86
+9,Assignment2,1aRjlUAYpO,30
+9,Assignment2,WUMHFJy3AG,41
+9,Assignment2,ujARr06uDs,91
+9,Assignment2,RtDWbzvtoo,34
+9,Assignment2,bCSKEQsp82,68
+1,Assignment3,A1Kcf8Z1u3,70
+1,Assignment3,Rjuqf7P3nX,94
+1,Assignment3,ECk9NPOnC1,97
+1,Assignment3,0nYGfSzH52,27
+1,Assignment3,8BdlWK9mvn,63
+1,Assignment3,hEp6l3yRkB,73
+1,Assignment3,vrSPzDaBog,64
+1,Assignment3,yVEE6glmyP,90
+1,Assignment3,4D8d5NFQey,69
+1,Assignment3,tmil3gYi8I,92
+1,Assignment3,stB2damzF1,70
+1,Assignment3,Q5zYQSo07T,40
+2,Assignment3,WJrWAidLZ5,100
+2,Assignment3,l8fb19WIds,92
+2,Assignment3,DlK1RDF6DZ,51
+2,Assignment3,s8jX7v1r9L,64
+2,Assignment3,qSaWq5Khmt,68
+2,Assignment3,JEdJCRTwMu,97
+2,Assignment3,LbOIaCTwOR,89
+2,Assignment3,F8SGo1rfbJ,53
+2,Assignment3,aDQQtN7BnB,72
+2,Assignment3,w4xX1lvTG7,92
+2,Assignment3,ixYZCGpl5D,86
+2,Assignment3,iep724zbM3,87
+2,Assignment3,rRMSF0EH7d,68
+2,Assignment3,EWUS9AaKts,54
+3,Homework3,A1Kcf8Z1u3,98
+3,Homework3,Rjuqf7P3nX,86
+3,Homework3,ECk9NPOnC1,88
+3,Homework3,0nYGfSzH52,57
+3,Homework3,8BdlWK9mvn,41
+3,Homework3,hEp6l3yRkB,96
+3,Homework3,vrSPzDaBog,65
+3,Homework3,yVEE6glmyP,26
+3,Homework3,4D8d5NFQey,56
+3,Homework3,tmil3gYi8I,99
+3,Homework3,stB2damzF1,67
+3,Homework3,Q5zYQSo07T,83
+3,Homework3,s8jX7v1r9L,49
+3,Homework3,qSaWq5Khmt,42
+3,Homework3,JEdJCRTwMu,62
+3,Homework3,LbOIaCTwOR,46
+3,Homework3,F8SGo1rfbJ,89
+3,Homework3,aDQQtN7BnB,58
+3,Homework3,w4xX1lvTG7,58
+3,Homework3,ixYZCGpl5D,22
+4,Assignment3,tmt3aPs20s,96
+4,Assignment3,QrcaEXMLnx,76
+4,Assignment3,VxX7KCsBEi,70
+4,Assignment3,PiQvBSPut9,66
+4,Assignment3,MvygDkC5GZ,36
+4,Assignment3,pSE2USVUGe,88
+4,Assignment3,uZfhzJCf3Q,48
+4,Assignment3,2ruNWPmicg,49
+4,Assignment3,5xTn7laQAz,41
+4,Assignment3,UPLEFa48ob,88
+4,Assignment3,g0aGB2MNq6,71
+4,Assignment3,vMCwbZJ5UI,93
+4,Assignment3,P80TDV5kec,55
+4,Assignment3,UX8dL9oWOH,45
+4,Assignment3,erGZXNCSa8,71
+4,Assignment3,aKtF7xlCj,92
+4,Assignment3,OcbMCqoATE,59
+4,Assignment3,Ki437ImMiB,56
+4,Assignment3,VkA4Ln4RP8,30
+4,Assignment3,Vv5mvmR93y,55
+4,Assignment3,9mCMQL1myp,47
+4,Assignment3,FGVfybCruk,40
+4,Assignment3,ybgAEICak2,37
+5,Assignment3,WJrWAidLZ5,90
+5,Assignment3,tmt3aPs20s,60
+5,Assignment3,PiQvBSPut9,78
+5,Assignment3,pSE2USVUGe,96
+5,Assignment3,uZfhzJCf3Q,86
+5,Assignment3,2ruNWPmicg,66
+5,Assignment3,5xTn7laQAz,92
+5,Assignment3,UPLEFa48ob,86
+5,Assignment3,g0aGB2MNq6,82
+5,Assignment3,vMCwbZJ5UI,99
+5,Assignment3,P80TDV5kec,53
+5,Assignment3,UX8dL9oWOH,74
+5,Assignment3,erGZXNCSa8,90
+5,Assignment3,aKtF7xlCj,91
+5,Assignment3,OcbMCqoATE,92
+5,Assignment3,Ki437ImMiB,83
+5,Assignment3,VkA4Ln4RP8,52
+5,Assignment3,Vv5mvmR93y,79
+5,Assignment3,9mCMQL1myp,97
+6,Midterm,8uv1aK9btU,26
+6,Midterm,cp5asEx6KR,48
+6,Midterm,RxNqRHaaoI,35
+6,Midterm,AnRRwDoMFm,20
+6,Midterm,RwKSObZt8b,44
+6,Midterm,QVsfnLS8nP,29
+6,Midterm,piajOfWMIT,27
+6,Midterm,lKOmgoDP5M,30
+6,Midterm,xrWlqSyLPV,38
+6,Midterm,k4hG2bKBi2,45
+6,Midterm,OhfDW5FQet,27
+6,Midterm,0Bb2zMzQAL,10
+6,Midterm,qjAClhRo8T,16
+6,Midterm,MMNPTkNHZg,43
+6,Midterm,v9ksRoAENe,36
+6,Midterm,I8k5HwpLlU,21
+6,Midterm,pAA8hhbaAf,7
+6,Midterm,kJQAvxlegv,19
+6,Midterm,l8Ck5AEii7,48
+6,Midterm,EIBGkZJ8LU,49
+6,Midterm,WVztzxaqG1,33
+6,Midterm,nlNo3Ifie2,6
+6,Midterm,fe20lUruvB,8
+6,Midterm,q24FfeogSR,32
+6,Midterm,1aRjlUAYpO,47
+6,Midterm,WUMHFJy3AG,8
+6,Midterm,ujARr06uDs,22
+6,Midterm,RtDWbzvtoo,50
+6,Midterm,bCSKEQsp82,9
+7,Assignment3,xshALL98rR,67
+7,Assignment3,8uv1aK9btU,94
+7,Assignment3,cp5asEx6KR,100
+7,Assignment3,RxNqRHaaoI,79
+7,Assignment3,AnRRwDoMFm,85
+7,Assignment3,RwKSObZt8b,100
+7,Assignment3,QVsfnLS8nP,80
+7,Assignment3,qjAClhRo8T,76
+7,Assignment3,MMNPTkNHZg,59
+7,Assignment3,v9ksRoAENe,90
+7,Assignment3,I8k5HwpLlU,51
+7,Assignment3,pAA8hhbaAf,49
+7,Assignment3,kJQAvxlegv,72
+7,Assignment3,l8Ck5AEii7,49
+7,Assignment3,EIBGkZJ8LU,89
+7,Assignment3,WVztzxaqG1,98
+7,Assignment3,nlNo3Ifie2,74
+7,Assignment3,fe20lUruvB,48
+7,Assignment3,k4hG2bKBi2,68
+7,Assignment3,OhfDW5FQet,79
+8,Assignment3,qBhsb9AT1D,97
+8,Assignment3,wUSNkrt2i7,77
+8,Assignment3,YXCMIivcy6,97
+8,Assignment3,loWO7ep40W,96
+8,Assignment3,AyZm6kgtLQ,89
+8,Assignment3,RCkC4TjYNZ,92
+8,Assignment3,SGDgfAoZn8,97
+8,Assignment3,UuUxEvmxXO,95
+8,Assignment3,9wHtriXf8s,89
+8,Assignment3,j3BjhOJA0K,65
+8,Assignment3,77JVECgA9Y,74
+8,Assignment3,LRH33DL7sR,54
+8,Assignment3,82rggZxf5c,49
+8,Assignment3,ffD2jzc574,55
+8,Assignment3,zMdmtuvTDn,85
+8,Assignment3,4RygfhpS1h,68
+8,Assignment3,WW56HAP2R1,45
+8,Assignment3,Sx6sqg2Av5,46
+8,Assignment3,Oojd410rxz,69
+9,Assignment3,bSZa17FK2l,89
+9,Assignment3,A3mMrNEFsy,68
+9,Assignment3,ize3lkeNiR,94
+9,Assignment3,fk7USWbA60,87
+9,Assignment3,Xo3aGKAsfE,67
+9,Assignment3,q24FfeogSR,87
+9,Assignment3,1aRjlUAYpO,52
+9,Assignment3,WUMHFJy3AG,45
+9,Assignment3,ujARr06uDs,66
+9,Assignment3,RtDWbzvtoo,46
+9,Assignment3,bCSKEQsp82,98
+1,Assignment4,A1Kcf8Z1u3,83
+1,Assignment4,Rjuqf7P3nX,67
+1,Assignment4,ECk9NPOnC1,94
+1,Assignment4,0nYGfSzH52,33
+1,Assignment4,8BdlWK9mvn,56
+1,Assignment4,hEp6l3yRkB,68
+1,Assignment4,vrSPzDaBog,47
+1,Assignment4,yVEE6glmyP,67
+1,Assignment4,4D8d5NFQey,94
+1,Assignment4,tmil3gYi8I,54
+1,Assignment4,stB2damzF1,50
+1,Assignment4,Q5zYQSo07T,77
+2,Assignment4,WJrWAidLZ5,72
+2,Assignment4,l8fb19WIds,88
+2,Assignment4,DlK1RDF6DZ,72
+2,Assignment4,s8jX7v1r9L,35
+2,Assignment4,qSaWq5Khmt,50
+2,Assignment4,JEdJCRTwMu,78
+2,Assignment4,LbOIaCTwOR,94
+2,Assignment4,F8SGo1rfbJ,92
+2,Assignment4,aDQQtN7BnB,65
+2,Assignment4,w4xX1lvTG7,39
+2,Assignment4,ixYZCGpl5D,66
+2,Assignment4,iep724zbM3,35
+2,Assignment4,rRMSF0EH7d,64
+2,Assignment4,EWUS9AaKts,98
+3,Midterm,A1Kcf8Z1u3,88
+3,Midterm,Rjuqf7P3nX,78
+3,Midterm,ECk9NPOnC1,93
+3,Midterm,0nYGfSzH52,26
+3,Midterm,8BdlWK9mvn,74
+3,Midterm,hEp6l3yRkB,41
+3,Midterm,vrSPzDaBog,75
+3,Midterm,yVEE6glmyP,97
+3,Midterm,4D8d5NFQey,63
+3,Midterm,tmil3gYi8I,62
+3,Midterm,stB2damzF1,88
+3,Midterm,Q5zYQSo07T,93
+3,Midterm,s8jX7v1r9L,91
+3,Midterm,qSaWq5Khmt,64
+3,Midterm,JEdJCRTwMu,45
+3,Midterm,LbOIaCTwOR,81
+3,Midterm,F8SGo1rfbJ,31
+3,Midterm,aDQQtN7BnB,54
+3,Midterm,w4xX1lvTG7,83
+3,Midterm,ixYZCGpl5D,32
+4,Assignment4,tmt3aPs20s,88
+4,Assignment4,QrcaEXMLnx,55
+4,Assignment4,VxX7KCsBEi,97
+4,Assignment4,PiQvBSPut9,67
+4,Assignment4,MvygDkC5GZ,76
+4,Assignment4,pSE2USVUGe,67
+4,Assignment4,uZfhzJCf3Q,64
+4,Assignment4,2ruNWPmicg,77
+4,Assignment4,5xTn7laQAz,25
+4,Assignment4,UPLEFa48ob,62
+4,Assignment4,g0aGB2MNq6,56
+4,Assignment4,vMCwbZJ5UI,75
+4,Assignment4,P80TDV5kec,64
+4,Assignment4,UX8dL9oWOH,97
+4,Assignment4,erGZXNCSa8,22
+4,Assignment4,aKtF7xlCj,26
+4,Assignment4,OcbMCqoATE,56
+4,Assignment4,Ki437ImMiB,65
+4,Assignment4,VkA4Ln4RP8,23
+4,Assignment4,Vv5mvmR93y,84
+4,Assignment4,9mCMQL1myp,24
+4,Assignment4,FGVfybCruk,99
+4,Assignment4,ybgAEICak2,85
+5,Assignment4,WJrWAidLZ5,74
+5,Assignment4,tmt3aPs20s,96
+5,Assignment4,PiQvBSPut9,59
+5,Assignment4,pSE2USVUGe,51
+5,Assignment4,uZfhzJCf3Q,47
+5,Assignment4,2ruNWPmicg,93
+5,Assignment4,5xTn7laQAz,46
+5,Assignment4,UPLEFa48ob,90
+5,Assignment4,g0aGB2MNq6,45
+5,Assignment4,vMCwbZJ5UI,85
+5,Assignment4,P80TDV5kec,56
+5,Assignment4,UX8dL9oWOH,62
+5,Assignment4,erGZXNCSa8,86
+5,Assignment4,aKtF7xlCj,47
+5,Assignment4,OcbMCqoATE,77
+5,Assignment4,Ki437ImMiB,62
+5,Assignment4,VkA4Ln4RP8,93
+5,Assignment4,Vv5mvmR93y,87
+5,Assignment4,9mCMQL1myp,48
+6,Project3,8uv1aK9btU,98
+6,Project3,cp5asEx6KR,69
+6,Project3,RxNqRHaaoI,67
+6,Project3,AnRRwDoMFm,95
+6,Project3,RwKSObZt8b,82
+6,Project3,QVsfnLS8nP,92
+6,Project3,piajOfWMIT,86
+6,Project3,lKOmgoDP5M,71
+6,Project3,xrWlqSyLPV,100
+6,Project3,k4hG2bKBi2,72
+6,Project3,OhfDW5FQet,84
+6,Project3,0Bb2zMzQAL,61
+6,Project3,qjAClhRo8T,60
+6,Project3,MMNPTkNHZg,74
+6,Project3,v9ksRoAENe,49
+6,Project3,I8k5HwpLlU,91
+6,Project3,pAA8hhbaAf,99
+6,Project3,kJQAvxlegv,100
+6,Project3,l8Ck5AEii7,87
+6,Project3,EIBGkZJ8LU,64
+6,Project3,WVztzxaqG1,77
+6,Project3,nlNo3Ifie2,81
+6,Project3,fe20lUruvB,50
+6,Project3,q24FfeogSR,56
+6,Project3,1aRjlUAYpO,88
+6,Project3,WUMHFJy3AG,85
+6,Project3,ujARr06uDs,80
+6,Project3,RtDWbzvtoo,78
+6,Project3,bCSKEQsp82,56
+7,Assignment4,xshALL98rR,89
+7,Assignment4,8uv1aK9btU,76
+7,Assignment4,cp5asEx6KR,89
+7,Assignment4,RxNqRHaaoI,94
+7,Assignment4,AnRRwDoMFm,62
+7,Assignment4,RwKSObZt8b,73
+7,Assignment4,QVsfnLS8nP,82
+7,Assignment4,qjAClhRo8T,62
+7,Assignment4,MMNPTkNHZg,60
+7,Assignment4,v9ksRoAENe,79
+7,Assignment4,I8k5HwpLlU,67
+7,Assignment4,pAA8hhbaAf,59
+7,Assignment4,kJQAvxlegv,73
+7,Assignment4,l8Ck5AEii7,60
+7,Assignment4,EIBGkZJ8LU,76
+7,Assignment4,WVztzxaqG1,59
+7,Assignment4,nlNo3Ifie2,72
+7,Assignment4,fe20lUruvB,70
+7,Assignment4,k4hG2bKBi2,57
+7,Assignment4,OhfDW5FQet,80
+8,Midterm,qBhsb9AT1D,30
+8,Midterm,wUSNkrt2i7,42
+8,Midterm,YXCMIivcy6,28
+8,Midterm,loWO7ep40W,52
+8,Midterm,AyZm6kgtLQ,49
+8,Midterm,RCkC4TjYNZ,28
+8,Midterm,SGDgfAoZn8,59
+8,Midterm,UuUxEvmxXO,56
+8,Midterm,9wHtriXf8s,22
+8,Midterm,j3BjhOJA0K,34
+8,Midterm,77JVECgA9Y,34
+8,Midterm,LRH33DL7sR,29
+8,Midterm,82rggZxf5c,42
+8,Midterm,ffD2jzc574,46
+8,Midterm,zMdmtuvTDn,43
+8,Midterm,4RygfhpS1h,28
+8,Midterm,WW56HAP2R1,24
+8,Midterm,Sx6sqg2Av5,56
+8,Midterm,Oojd410rxz,50
+9,Midterm,bSZa17FK2l,89
+9,Midterm,A3mMrNEFsy,58
+9,Midterm,ize3lkeNiR,86
+9,Midterm,fk7USWbA60,63
+9,Midterm,Xo3aGKAsfE,65
+9,Midterm,q24FfeogSR,45
+9,Midterm,1aRjlUAYpO,79
+9,Midterm,WUMHFJy3AG,38
+9,Midterm,ujARr06uDs,88
+9,Midterm,RtDWbzvtoo,100
+9,Midterm,bCSKEQsp82,55
+1,Midterm1,A1Kcf8Z1u3,47
+1,Midterm1,Rjuqf7P3nX,24
+1,Midterm1,ECk9NPOnC1,43
+1,Midterm1,0nYGfSzH52,20
+1,Midterm1,8BdlWK9mvn,55
+1,Midterm1,hEp6l3yRkB,57
+1,Midterm1,vrSPzDaBog,57
+1,Midterm1,yVEE6glmyP,20
+1,Midterm1,4D8d5NFQey,31
+1,Midterm1,tmil3gYi8I,41
+1,Midterm1,stB2damzF1,41
+1,Midterm1,Q5zYQSo07T,30
+2,Midterm1,WJrWAidLZ5,27
+2,Midterm1,l8fb19WIds,55
+2,Midterm1,DlK1RDF6DZ,40
+2,Midterm1,s8jX7v1r9L,21
+2,Midterm1,qSaWq5Khmt,29
+2,Midterm1,JEdJCRTwMu,45
+2,Midterm1,LbOIaCTwOR,35
+2,Midterm1,F8SGo1rfbJ,26
+2,Midterm1,aDQQtN7BnB,47
+2,Midterm1,w4xX1lvTG7,25
+2,Midterm1,ixYZCGpl5D,36
+2,Midterm1,iep724zbM3,20
+2,Midterm1,rRMSF0EH7d,48
+2,Midterm1,EWUS9AaKts,22
+3,Homework4,A1Kcf8Z1u3,67
+3,Homework4,Rjuqf7P3nX,74
+3,Homework4,ECk9NPOnC1,69
+3,Homework4,0nYGfSzH52,75
+3,Homework4,8BdlWK9mvn,77
+3,Homework4,hEp6l3yRkB,26
+3,Homework4,vrSPzDaBog,88
+3,Homework4,yVEE6glmyP,94
+3,Homework4,4D8d5NFQey,36
+3,Homework4,tmil3gYi8I,43
+3,Homework4,stB2damzF1,85
+3,Homework4,Q5zYQSo07T,67
+3,Homework4,s8jX7v1r9L,39
+3,Homework4,qSaWq5Khmt,45
+3,Homework4,JEdJCRTwMu,70
+3,Homework4,LbOIaCTwOR,45
+3,Homework4,F8SGo1rfbJ,91
+3,Homework4,aDQQtN7BnB,90
+3,Homework4,w4xX1lvTG7,62
+3,Homework4,ixYZCGpl5D,39
+4,Midterm1,tmt3aPs20s,33
+4,Midterm1,QrcaEXMLnx,56
+4,Midterm1,VxX7KCsBEi,44
+4,Midterm1,PiQvBSPut9,30
+4,Midterm1,MvygDkC5GZ,31
+4,Midterm1,pSE2USVUGe,36
+4,Midterm1,uZfhzJCf3Q,38
+4,Midterm1,2ruNWPmicg,58
+4,Midterm1,5xTn7laQAz,27
+4,Midterm1,UPLEFa48ob,46
+4,Midterm1,g0aGB2MNq6,26
+4,Midterm1,vMCwbZJ5UI,29
+4,Midterm1,P80TDV5kec,49
+4,Midterm1,UX8dL9oWOH,24
+4,Midterm1,erGZXNCSa8,34
+4,Midterm1,aKtF7xlCj,48
+4,Midterm1,OcbMCqoATE,34
+4,Midterm1,Ki437ImMiB,25
+4,Midterm1,VkA4Ln4RP8,46
+4,Midterm1,Vv5mvmR93y,52
+4,Midterm1,9mCMQL1myp,54
+4,Midterm1,FGVfybCruk,34
+4,Midterm1,ybgAEICak2,60
+5,Midterm,WJrWAidLZ5,97
+5,Midterm,tmt3aPs20s,66
+5,Midterm,PiQvBSPut9,71
+5,Midterm,pSE2USVUGe,70
+5,Midterm,uZfhzJCf3Q,55
+5,Midterm,2ruNWPmicg,49
+5,Midterm,5xTn7laQAz,95
+5,Midterm,UPLEFa48ob,84
+5,Midterm,g0aGB2MNq6,87
+5,Midterm,vMCwbZJ5UI,93
+5,Midterm,P80TDV5kec,67
+5,Midterm,UX8dL9oWOH,56
+5,Midterm,erGZXNCSa8,68
+5,Midterm,aKtF7xlCj,63
+5,Midterm,OcbMCqoATE,82
+5,Midterm,Ki437ImMiB,51
+5,Midterm,VkA4Ln4RP8,65
+5,Midterm,Vv5mvmR93y,59
+5,Midterm,9mCMQL1myp,72
+6,Project4,8uv1aK9btU,91
+6,Project4,cp5asEx6KR,97
+6,Project4,RxNqRHaaoI,53
+6,Project4,AnRRwDoMFm,50
+6,Project4,RwKSObZt8b,60
+6,Project4,QVsfnLS8nP,99
+6,Project4,piajOfWMIT,99
+6,Project4,lKOmgoDP5M,50
+6,Project4,xrWlqSyLPV,72
+6,Project4,k4hG2bKBi2,89
+6,Project4,OhfDW5FQet,61
+6,Project4,0Bb2zMzQAL,89
+6,Project4,qjAClhRo8T,75
+6,Project4,MMNPTkNHZg,78
+6,Project4,v9ksRoAENe,93
+6,Project4,I8k5HwpLlU,92
+6,Project4,pAA8hhbaAf,71
+6,Project4,kJQAvxlegv,87
+6,Project4,l8Ck5AEii7,67
+6,Project4,EIBGkZJ8LU,46
+6,Project4,WVztzxaqG1,51
+6,Project4,nlNo3Ifie2,88
+6,Project4,fe20lUruvB,65
+6,Project4,q24FfeogSR,86
+6,Project4,1aRjlUAYpO,79
+6,Project4,WUMHFJy3AG,75
+6,Project4,ujARr06uDs,57
+6,Project4,RtDWbzvtoo,89
+6,Project4,bCSKEQsp82,72
+7,Midterm,xshALL98rR,98
+7,Midterm,8uv1aK9btU,62
+7,Midterm,cp5asEx6KR,77
+7,Midterm,RxNqRHaaoI,86
+7,Midterm,AnRRwDoMFm,93
+7,Midterm,RwKSObZt8b,93
+7,Midterm,QVsfnLS8nP,54
+7,Midterm,qjAClhRo8T,46
+7,Midterm,MMNPTkNHZg,58
+7,Midterm,v9ksRoAENe,84
+7,Midterm,I8k5HwpLlU,81
+7,Midterm,pAA8hhbaAf,81
+7,Midterm,kJQAvxlegv,74
+7,Midterm,l8Ck5AEii7,62
+7,Midterm,EIBGkZJ8LU,45
+7,Midterm,WVztzxaqG1,95
+7,Midterm,nlNo3Ifie2,96
+7,Midterm,fe20lUruvB,62
+7,Midterm,k4hG2bKBi2,78
+7,Midterm,OhfDW5FQet,68
+8,Assignment4,qBhsb9AT1D,82
+8,Assignment4,wUSNkrt2i7,50
+8,Assignment4,YXCMIivcy6,61
+8,Assignment4,loWO7ep40W,65
+8,Assignment4,AyZm6kgtLQ,67
+8,Assignment4,RCkC4TjYNZ,50
+8,Assignment4,SGDgfAoZn8,43
+8,Assignment4,UuUxEvmxXO,76
+8,Assignment4,9wHtriXf8s,46
+8,Assignment4,j3BjhOJA0K,43
+8,Assignment4,77JVECgA9Y,60
+8,Assignment4,LRH33DL7sR,43
+8,Assignment4,82rggZxf5c,68
+8,Assignment4,ffD2jzc574,80
+8,Assignment4,zMdmtuvTDn,70
+8,Assignment4,4RygfhpS1h,87
+8,Assignment4,WW56HAP2R1,31
+8,Assignment4,Sx6sqg2Av5,89
+8,Assignment4,Oojd410rxz,81
+9,Assignment4,bSZa17FK2l,94
+9,Assignment4,A3mMrNEFsy,56
+9,Assignment4,ize3lkeNiR,92
+9,Assignment4,fk7USWbA60,83
+9,Assignment4,Xo3aGKAsfE,85
+9,Assignment4,q24FfeogSR,40
+9,Assignment4,1aRjlUAYpO,67
+9,Assignment4,WUMHFJy3AG,93
+9,Assignment4,ujARr06uDs,92
+9,Assignment4,RtDWbzvtoo,60
+9,Assignment4,bCSKEQsp82,60
+1,Assignment5,A1Kcf8Z1u3,93
+1,Assignment5,Rjuqf7P3nX,73
+1,Assignment5,ECk9NPOnC1,86
+1,Assignment5,0nYGfSzH52,80
+1,Assignment5,8BdlWK9mvn,46
+1,Assignment5,hEp6l3yRkB,83
+1,Assignment5,vrSPzDaBog,56
+1,Assignment5,yVEE6glmyP,29
+1,Assignment5,4D8d5NFQey,92
+1,Assignment5,tmil3gYi8I,22
+1,Assignment5,stB2damzF1,22
+1,Assignment5,Q5zYQSo07T,62
+2,Assignment5,WJrWAidLZ5,100
+2,Assignment5,l8fb19WIds,82
+2,Assignment5,DlK1RDF6DZ,67
+2,Assignment5,s8jX7v1r9L,76
+2,Assignment5,qSaWq5Khmt,77
+2,Assignment5,JEdJCRTwMu,92
+2,Assignment5,LbOIaCTwOR,41
+2,Assignment5,F8SGo1rfbJ,53
+2,Assignment5,aDQQtN7BnB,77
+2,Assignment5,w4xX1lvTG7,99
+2,Assignment5,ixYZCGpl5D,73
+2,Assignment5,iep724zbM3,96
+2,Assignment5,rRMSF0EH7d,83
+2,Assignment5,EWUS9AaKts,63
+3,Homework5,A1Kcf8Z1u3,58
+3,Homework5,Rjuqf7P3nX,54
+3,Homework5,ECk9NPOnC1,69
+3,Homework5,0nYGfSzH52,44
+3,Homework5,8BdlWK9mvn,77
+3,Homework5,hEp6l3yRkB,23
+3,Homework5,vrSPzDaBog,31
+3,Homework5,yVEE6glmyP,80
+3,Homework5,4D8d5NFQey,46
+3,Homework5,tmil3gYi8I,80
+3,Homework5,stB2damzF1,29
+3,Homework5,Q5zYQSo07T,76
+3,Homework5,s8jX7v1r9L,98
+3,Homework5,qSaWq5Khmt,30
+3,Homework5,JEdJCRTwMu,38
+3,Homework5,LbOIaCTwOR,40
+3,Homework5,F8SGo1rfbJ,81
+3,Homework5,aDQQtN7BnB,40
+3,Homework5,w4xX1lvTG7,47
+3,Homework5,ixYZCGpl5D,45
+4,Assignment5,tmt3aPs20s,86
+4,Assignment5,QrcaEXMLnx,36
+4,Assignment5,VxX7KCsBEi,47
+4,Assignment5,PiQvBSPut9,56
+4,Assignment5,MvygDkC5GZ,71
+4,Assignment5,pSE2USVUGe,53
+4,Assignment5,uZfhzJCf3Q,32
+4,Assignment5,2ruNWPmicg,56
+4,Assignment5,5xTn7laQAz,42
+4,Assignment5,UPLEFa48ob,50
+4,Assignment5,g0aGB2MNq6,79
+4,Assignment5,vMCwbZJ5UI,23
+4,Assignment5,P80TDV5kec,30
+4,Assignment5,UX8dL9oWOH,46
+4,Assignment5,erGZXNCSa8,78
+4,Assignment5,aKtF7xlCj,58
+4,Assignment5,OcbMCqoATE,23
+4,Assignment5,Ki437ImMiB,58
+4,Assignment5,VkA4Ln4RP8,58
+4,Assignment5,Vv5mvmR93y,77
+4,Assignment5,9mCMQL1myp,84
+4,Assignment5,FGVfybCruk,21
+4,Assignment5,ybgAEICak2,84
+5,Final Exam,WJrWAidLZ5,97
+5,Final Exam,tmt3aPs20s,144
+5,Final Exam,PiQvBSPut9,114
+5,Final Exam,pSE2USVUGe,85
+5,Final Exam,uZfhzJCf3Q,124
+5,Final Exam,2ruNWPmicg,98
+5,Final Exam,5xTn7laQAz,78
+5,Final Exam,UPLEFa48ob,99
+5,Final Exam,g0aGB2MNq6,54
+5,Final Exam,vMCwbZJ5UI,77
+5,Final Exam,P80TDV5kec,142
+5,Final Exam,UX8dL9oWOH,114
+5,Final Exam,erGZXNCSa8,109
+5,Final Exam,aKtF7xlCj,142
+5,Final Exam,OcbMCqoATE,57
+5,Final Exam,Ki437ImMiB,95
+5,Final Exam,VkA4Ln4RP8,135
+5,Final Exam,Vv5mvmR93y,61
+5,Final Exam,9mCMQL1myp,81
+6,Project5,8uv1aK9btU,70
+6,Project5,cp5asEx6KR,96
+6,Project5,RxNqRHaaoI,58
+6,Project5,AnRRwDoMFm,94
+6,Project5,RwKSObZt8b,77
+6,Project5,QVsfnLS8nP,93
+6,Project5,piajOfWMIT,93
+6,Project5,lKOmgoDP5M,46
+6,Project5,xrWlqSyLPV,56
+6,Project5,k4hG2bKBi2,47
+6,Project5,OhfDW5FQet,87
+6,Project5,0Bb2zMzQAL,85
+6,Project5,qjAClhRo8T,92
+6,Project5,MMNPTkNHZg,62
+6,Project5,v9ksRoAENe,64
+6,Project5,I8k5HwpLlU,69
+6,Project5,pAA8hhbaAf,92
+6,Project5,kJQAvxlegv,94
+6,Project5,l8Ck5AEii7,95
+6,Project5,EIBGkZJ8LU,91
+6,Project5,WVztzxaqG1,63
+6,Project5,nlNo3Ifie2,80
+6,Project5,fe20lUruvB,47
+6,Project5,q24FfeogSR,53
+6,Project5,1aRjlUAYpO,68
+6,Project5,WUMHFJy3AG,48
+6,Project5,ujARr06uDs,85
+6,Project5,RtDWbzvtoo,46
+6,Project5,bCSKEQsp82,54
+7,Final Exam,xshALL98rR,103
+7,Final Exam,8uv1aK9btU,114
+7,Final Exam,cp5asEx6KR,116
+7,Final Exam,RxNqRHaaoI,134
+7,Final Exam,AnRRwDoMFm,123
+7,Final Exam,RwKSObZt8b,120
+7,Final Exam,QVsfnLS8nP,67
+7,Final Exam,qjAClhRo8T,93
+7,Final Exam,MMNPTkNHZg,132
+7,Final Exam,v9ksRoAENe,116
+7,Final Exam,I8k5HwpLlU,52
+7,Final Exam,pAA8hhbaAf,115
+7,Final Exam,kJQAvxlegv,68
+7,Final Exam,l8Ck5AEii7,84
+7,Final Exam,EIBGkZJ8LU,91
+7,Final Exam,WVztzxaqG1,109
+7,Final Exam,nlNo3Ifie2,146
+7,Final Exam,fe20lUruvB,101
+7,Final Exam,k4hG2bKBi2,57
+7,Final Exam,OhfDW5FQet,105
+8,Assignment5,qBhsb9AT1D,
+8,Assignment5,wUSNkrt2i7,
+8,Assignment5,YXCMIivcy6,
+8,Assignment5,loWO7ep40W,
+8,Assignment5,AyZm6kgtLQ,
+8,Assignment5,RCkC4TjYNZ,
+8,Assignment5,SGDgfAoZn8,
+8,Assignment5,UuUxEvmxXO,
+8,Assignment5,9wHtriXf8s,
+8,Assignment5,j3BjhOJA0K,
+8,Assignment5,77JVECgA9Y,
+8,Assignment5,LRH33DL7sR,
+8,Assignment5,82rggZxf5c,
+8,Assignment5,ffD2jzc574,
+8,Assignment5,zMdmtuvTDn,
+8,Assignment5,4RygfhpS1h,
+8,Assignment5,WW56HAP2R1,
+8,Assignment5,Sx6sqg2Av5,
+8,Assignment5,Oojd410rxz,
+9,Assignment5,bSZa17FK2l,
+9,Assignment5,A3mMrNEFsy,
+9,Assignment5,ize3lkeNiR,
+9,Assignment5,fk7USWbA60,
+9,Assignment5,Xo3aGKAsfE,
+9,Assignment5,q24FfeogSR,
+9,Assignment5,1aRjlUAYpO,
+9,Assignment5,WUMHFJy3AG,
+9,Assignment5,ujARr06uDs,
+9,Assignment5,RtDWbzvtoo,
+9,Assignment5,bCSKEQsp82,
+1,Midterm2,A1Kcf8Z1u3,30
+1,Midterm2,Rjuqf7P3nX,28
+1,Midterm2,ECk9NPOnC1,53
+1,Midterm2,0nYGfSzH52,56
+1,Midterm2,8BdlWK9mvn,57
+1,Midterm2,hEp6l3yRkB,23
+1,Midterm2,vrSPzDaBog,33
+1,Midterm2,yVEE6glmyP,28
+1,Midterm2,4D8d5NFQey,41
+1,Midterm2,tmil3gYi8I,41
+1,Midterm2,stB2damzF1,56
+1,Midterm2,Q5zYQSo07T,47
+2,Midterm2,WJrWAidLZ5,55
+2,Midterm2,l8fb19WIds,24
+2,Midterm2,DlK1RDF6DZ,49
+2,Midterm2,s8jX7v1r9L,36
+2,Midterm2,qSaWq5Khmt,59
+2,Midterm2,JEdJCRTwMu,43
+2,Midterm2,LbOIaCTwOR,59
+2,Midterm2,F8SGo1rfbJ,43
+2,Midterm2,aDQQtN7BnB,53
+2,Midterm2,w4xX1lvTG7,30
+2,Midterm2,ixYZCGpl5D,53
+2,Midterm2,iep724zbM3,47
+2,Midterm2,rRMSF0EH7d,28
+2,Midterm2,EWUS9AaKts,32
+3,Homework6,A1Kcf8Z1u3,98
+3,Homework6,Rjuqf7P3nX,58
+3,Homework6,ECk9NPOnC1,67
+3,Homework6,0nYGfSzH52,25
+3,Homework6,8BdlWK9mvn,100
+3,Homework6,hEp6l3yRkB,75
+3,Homework6,vrSPzDaBog,62
+3,Homework6,yVEE6glmyP,55
+3,Homework6,4D8d5NFQey,38
+3,Homework6,tmil3gYi8I,97
+3,Homework6,stB2damzF1,54
+3,Homework6,Q5zYQSo07T,43
+3,Homework6,s8jX7v1r9L,65
+3,Homework6,qSaWq5Khmt,74
+3,Homework6,JEdJCRTwMu,24
+3,Homework6,LbOIaCTwOR,33
+3,Homework6,F8SGo1rfbJ,40
+3,Homework6,aDQQtN7BnB,77
+3,Homework6,w4xX1lvTG7,72
+3,Homework6,ixYZCGpl5D,66
+4,Midterm2,tmt3aPs20s,51
+4,Midterm2,QrcaEXMLnx,48
+4,Midterm2,VxX7KCsBEi,27
+4,Midterm2,PiQvBSPut9,26
+4,Midterm2,MvygDkC5GZ,23
+4,Midterm2,pSE2USVUGe,34
+4,Midterm2,uZfhzJCf3Q,48
+4,Midterm2,2ruNWPmicg,23
+4,Midterm2,5xTn7laQAz,28
+4,Midterm2,UPLEFa48ob,39
+4,Midterm2,g0aGB2MNq6,59
+4,Midterm2,vMCwbZJ5UI,26
+4,Midterm2,P80TDV5kec,46
+4,Midterm2,UX8dL9oWOH,22
+4,Midterm2,erGZXNCSa8,35
+4,Midterm2,aKtF7xlCj,29
+4,Midterm2,OcbMCqoATE,60
+4,Midterm2,Ki437ImMiB,54
+4,Midterm2,VkA4Ln4RP8,42
+4,Midterm2,Vv5mvmR93y,50
+4,Midterm2,9mCMQL1myp,26
+4,Midterm2,FGVfybCruk,38
+4,Midterm2,ybgAEICak2,50
+6,Final Exam,8uv1aK9btU,83
+6,Final Exam,cp5asEx6KR,78
+6,Final Exam,RxNqRHaaoI,44
+6,Final Exam,AnRRwDoMFm,89
+6,Final Exam,RwKSObZt8b,95
+6,Final Exam,QVsfnLS8nP,119
+6,Final Exam,piajOfWMIT,109
+6,Final Exam,lKOmgoDP5M,66
+6,Final Exam,xrWlqSyLPV,68
+6,Final Exam,k4hG2bKBi2,64
+6,Final Exam,OhfDW5FQet,90
+6,Final Exam,0Bb2zMzQAL,99
+6,Final Exam,qjAClhRo8T,81
+6,Final Exam,MMNPTkNHZg,71
+6,Final Exam,v9ksRoAENe,77
+6,Final Exam,I8k5HwpLlU,76
+6,Final Exam,pAA8hhbaAf,88
+6,Final Exam,kJQAvxlegv,115
+6,Final Exam,l8Ck5AEii7,110
+6,Final Exam,EIBGkZJ8LU,120
+6,Final Exam,WVztzxaqG1,110
+6,Final Exam,nlNo3Ifie2,73
+6,Final Exam,fe20lUruvB,115
+6,Final Exam,q24FfeogSR,108
+6,Final Exam,1aRjlUAYpO,100
+6,Final Exam,WUMHFJy3AG,119
+6,Final Exam,ujARr06uDs,114
+6,Final Exam,RtDWbzvtoo,80
+6,Final Exam,bCSKEQsp82,79
+8,Assignment6,qBhsb9AT1D,
+8,Assignment6,wUSNkrt2i7,
+8,Assignment6,YXCMIivcy6,
+8,Assignment6,loWO7ep40W,
+8,Assignment6,AyZm6kgtLQ,
+8,Assignment6,RCkC4TjYNZ,
+8,Assignment6,SGDgfAoZn8,
+8,Assignment6,UuUxEvmxXO,
+8,Assignment6,9wHtriXf8s,
+8,Assignment6,j3BjhOJA0K,
+8,Assignment6,77JVECgA9Y,
+8,Assignment6,LRH33DL7sR,
+8,Assignment6,82rggZxf5c,
+8,Assignment6,ffD2jzc574,
+8,Assignment6,zMdmtuvTDn,
+8,Assignment6,4RygfhpS1h,
+8,Assignment6,WW56HAP2R1,
+8,Assignment6,Sx6sqg2Av5,
+8,Assignment6,Oojd410rxz,
+9,Final Project,bSZa17FK2l,
+9,Final Project,A3mMrNEFsy,
+9,Final Project,ize3lkeNiR,
+9,Final Project,fk7USWbA60,
+9,Final Project,Xo3aGKAsfE,
+9,Final Project,q24FfeogSR,
+9,Final Project,1aRjlUAYpO,
+9,Final Project,WUMHFJy3AG,
+9,Final Project,ujARr06uDs,
+9,Final Project,RtDWbzvtoo,
+9,Final Project,bCSKEQsp82,
+1,Final Project,A1Kcf8Z1u3,106
+1,Final Project,Rjuqf7P3nX,126
+1,Final Project,ECk9NPOnC1,103
+1,Final Project,0nYGfSzH52,34
+1,Final Project,8BdlWK9mvn,103
+1,Final Project,hEp6l3yRkB,135
+1,Final Project,vrSPzDaBog,107
+1,Final Project,yVEE6glmyP,45
+1,Final Project,4D8d5NFQey,149
+1,Final Project,tmil3gYi8I,120
+1,Final Project,stB2damzF1,124
+1,Final Project,Q5zYQSo07T,91
+2,Final Project,WJrWAidLZ5,64
+2,Final Project,l8fb19WIds,138
+2,Final Project,DlK1RDF6DZ,57
+2,Final Project,s8jX7v1r9L,120
+2,Final Project,qSaWq5Khmt,149
+2,Final Project,JEdJCRTwMu,141
+2,Final Project,LbOIaCTwOR,146
+2,Final Project,F8SGo1rfbJ,71
+2,Final Project,aDQQtN7BnB,86
+2,Final Project,w4xX1lvTG7,47
+2,Final Project,ixYZCGpl5D,65
+2,Final Project,iep724zbM3,101
+2,Final Project,rRMSF0EH7d,42
+2,Final Project,EWUS9AaKts,119
+3,Homework7,A1Kcf8Z1u3,66
+3,Homework7,Rjuqf7P3nX,85
+3,Homework7,ECk9NPOnC1,61
+3,Homework7,0nYGfSzH52,20
+3,Homework7,8BdlWK9mvn,78
+3,Homework7,hEp6l3yRkB,68
+3,Homework7,vrSPzDaBog,72
+3,Homework7,yVEE6glmyP,45
+3,Homework7,4D8d5NFQey,29
+3,Homework7,tmil3gYi8I,25
+3,Homework7,stB2damzF1,34
+3,Homework7,Q5zYQSo07T,53
+3,Homework7,s8jX7v1r9L,84
+3,Homework7,qSaWq5Khmt,44
+3,Homework7,JEdJCRTwMu,21
+3,Homework7,LbOIaCTwOR,93
+3,Homework7,F8SGo1rfbJ,70
+3,Homework7,aDQQtN7BnB,51
+3,Homework7,w4xX1lvTG7,48
+3,Homework7,ixYZCGpl5D,70
+4,Final Project,tmt3aPs20s,103
+4,Final Project,QrcaEXMLnx,40
+4,Final Project,VxX7KCsBEi,108
+4,Final Project,PiQvBSPut9,120
+4,Final Project,MvygDkC5GZ,94
+4,Final Project,pSE2USVUGe,105
+4,Final Project,uZfhzJCf3Q,22
+4,Final Project,2ruNWPmicg,119
+4,Final Project,5xTn7laQAz,48
+4,Final Project,UPLEFa48ob,73
+4,Final Project,g0aGB2MNq6,94
+4,Final Project,vMCwbZJ5UI,68
+4,Final Project,P80TDV5kec,39
+4,Final Project,UX8dL9oWOH,55
+4,Final Project,erGZXNCSa8,121
+4,Final Project,aKtF7xlCj,130
+4,Final Project,OcbMCqoATE,80
+4,Final Project,Ki437ImMiB,121
+4,Final Project,VkA4Ln4RP8,115
+4,Final Project,Vv5mvmR93y,125
+4,Final Project,9mCMQL1myp,48
+4,Final Project,FGVfybCruk,132
+4,Final Project,ybgAEICak2,120
+8,Final Exam,qBhsb9AT1D,
+8,Final Exam,wUSNkrt2i7,
+8,Final Exam,YXCMIivcy6,
+8,Final Exam,loWO7ep40W,
+8,Final Exam,AyZm6kgtLQ,
+8,Final Exam,RCkC4TjYNZ,
+8,Final Exam,SGDgfAoZn8,
+8,Final Exam,UuUxEvmxXO,
+8,Final Exam,9wHtriXf8s,
+8,Final Exam,j3BjhOJA0K,
+8,Final Exam,77JVECgA9Y,
+8,Final Exam,LRH33DL7sR,
+8,Final Exam,82rggZxf5c,
+8,Final Exam,ffD2jzc574,
+8,Final Exam,zMdmtuvTDn,
+8,Final Exam,4RygfhpS1h,
+8,Final Exam,WW56HAP2R1,
+8,Final Exam,Sx6sqg2Av5,
+8,Final Exam,Oojd410rxz,
+9,Final Exam,bSZa17FK2l,
+9,Final Exam,A3mMrNEFsy,
+9,Final Exam,ize3lkeNiR,
+9,Final Exam,fk7USWbA60,
+9,Final Exam,Xo3aGKAsfE,
+9,Final Exam,q24FfeogSR,
+9,Final Exam,1aRjlUAYpO,
+9,Final Exam,WUMHFJy3AG,
+9,Final Exam,ujARr06uDs,
+9,Final Exam,RtDWbzvtoo,
+9,Final Exam,bCSKEQsp82,
+1,Bonus Quiz,A1Kcf8Z1u3,9
+1,Bonus Quiz,Rjuqf7P3nX,8
+1,Bonus Quiz,ECk9NPOnC1,0
+1,Bonus Quiz,0nYGfSzH52,3
+1,Bonus Quiz,8BdlWK9mvn,9
+1,Bonus Quiz,hEp6l3yRkB,8
+1,Bonus Quiz,vrSPzDaBog,8
+1,Bonus Quiz,yVEE6glmyP,1
+1,Bonus Quiz,4D8d5NFQey,3
+1,Bonus Quiz,tmil3gYi8I,3
+1,Bonus Quiz,stB2damzF1,7
+1,Bonus Quiz,Q5zYQSo07T,3
+2,Bonus Quiz,WJrWAidLZ5,5
+2,Bonus Quiz,l8fb19WIds,7
+2,Bonus Quiz,DlK1RDF6DZ,3
+2,Bonus Quiz,s8jX7v1r9L,1
+2,Bonus Quiz,qSaWq5Khmt,6
+2,Bonus Quiz,JEdJCRTwMu,6
+2,Bonus Quiz,LbOIaCTwOR,3
+2,Bonus Quiz,F8SGo1rfbJ,6
+2,Bonus Quiz,aDQQtN7BnB,7
+2,Bonus Quiz,w4xX1lvTG7,3
+2,Bonus Quiz,ixYZCGpl5D,3
+2,Bonus Quiz,iep724zbM3,5
+2,Bonus Quiz,rRMSF0EH7d,1
+2,Bonus Quiz,EWUS9AaKts,4
+3,Homework8,A1Kcf8Z1u3,58
+3,Homework8,Rjuqf7P3nX,67
+3,Homework8,ECk9NPOnC1,86
+3,Homework8,0nYGfSzH52,45
+3,Homework8,8BdlWK9mvn,96
+3,Homework8,hEp6l3yRkB,97
+3,Homework8,vrSPzDaBog,46
+3,Homework8,yVEE6glmyP,70
+3,Homework8,4D8d5NFQey,35
+3,Homework8,tmil3gYi8I,42
+3,Homework8,stB2damzF1,43
+3,Homework8,Q5zYQSo07T,91
+3,Homework8,s8jX7v1r9L,27
+3,Homework8,qSaWq5Khmt,68
+3,Homework8,JEdJCRTwMu,47
+3,Homework8,LbOIaCTwOR,72
+3,Homework8,F8SGo1rfbJ,36
+3,Homework8,aDQQtN7BnB,62
+3,Homework8,w4xX1lvTG7,62
+3,Homework8,ixYZCGpl5D,57
+4,Bonus Quiz,tmt3aPs20s,1
+4,Bonus Quiz,QrcaEXMLnx,7
+4,Bonus Quiz,VxX7KCsBEi,9
+4,Bonus Quiz,PiQvBSPut9,6
+4,Bonus Quiz,MvygDkC5GZ,0
+4,Bonus Quiz,pSE2USVUGe,4
+4,Bonus Quiz,uZfhzJCf3Q,4
+4,Bonus Quiz,2ruNWPmicg,9
+4,Bonus Quiz,5xTn7laQAz,7
+4,Bonus Quiz,UPLEFa48ob,10
+4,Bonus Quiz,g0aGB2MNq6,8
+4,Bonus Quiz,vMCwbZJ5UI,7
+4,Bonus Quiz,P80TDV5kec,6
+4,Bonus Quiz,UX8dL9oWOH,0
+4,Bonus Quiz,erGZXNCSa8,2
+4,Bonus Quiz,aKtF7xlCj,7
+4,Bonus Quiz,OcbMCqoATE,0
+4,Bonus Quiz,Ki437ImMiB,0
+4,Bonus Quiz,VkA4Ln4RP8,1
+4,Bonus Quiz,Vv5mvmR93y,3
+4,Bonus Quiz,9mCMQL1myp,1
+4,Bonus Quiz,FGVfybCruk,2
+4,Bonus Quiz,ybgAEICak2,3
+1,Final Exam,A1Kcf8Z1u3,80
+1,Final Exam,Rjuqf7P3nX,90
+1,Final Exam,ECk9NPOnC1,64
+1,Final Exam,0nYGfSzH52,99
+1,Final Exam,8BdlWK9mvn,47
+1,Final Exam,hEp6l3yRkB,24
+1,Final Exam,vrSPzDaBog,41
+1,Final Exam,yVEE6glmyP,82
+1,Final Exam,4D8d5NFQey,67
+1,Final Exam,tmil3gYi8I,58
+1,Final Exam,stB2damzF1,28
+1,Final Exam,Q5zYQSo07T,70
+2,Final Exam,WJrWAidLZ5,80
+2,Final Exam,l8fb19WIds,79
+2,Final Exam,DlK1RDF6DZ,92
+2,Final Exam,s8jX7v1r9L,58
+2,Final Exam,qSaWq5Khmt,49
+2,Final Exam,JEdJCRTwMu,96
+2,Final Exam,LbOIaCTwOR,36
+2,Final Exam,F8SGo1rfbJ,99
+2,Final Exam,aDQQtN7BnB,84
+2,Final Exam,w4xX1lvTG7,86
+2,Final Exam,ixYZCGpl5D,58
+2,Final Exam,iep724zbM3,79
+2,Final Exam,rRMSF0EH7d,78
+2,Final Exam,EWUS9AaKts,54
+3,Final Exam,A1Kcf8Z1u3,94
+3,Final Exam,Rjuqf7P3nX,59
+3,Final Exam,ECk9NPOnC1,51
+3,Final Exam,0nYGfSzH52,58
+3,Final Exam,8BdlWK9mvn,74
+3,Final Exam,hEp6l3yRkB,66
+3,Final Exam,vrSPzDaBog,40
+3,Final Exam,yVEE6glmyP,82
+3,Final Exam,4D8d5NFQey,48
+3,Final Exam,tmil3gYi8I,90
+3,Final Exam,stB2damzF1,38
+3,Final Exam,Q5zYQSo07T,66
+3,Final Exam,s8jX7v1r9L,52
+3,Final Exam,qSaWq5Khmt,44
+3,Final Exam,JEdJCRTwMu,40
+3,Final Exam,LbOIaCTwOR,54
+3,Final Exam,F8SGo1rfbJ,53
+3,Final Exam,aDQQtN7BnB,93
+3,Final Exam,w4xX1lvTG7,93
+3,Final Exam,ixYZCGpl5D,21
+4,Final Exam,tmt3aPs20s,64
+4,Final Exam,QrcaEXMLnx,52
+4,Final Exam,VxX7KCsBEi,58
+4,Final Exam,PiQvBSPut9,53
+4,Final Exam,MvygDkC5GZ,84
+4,Final Exam,pSE2USVUGe,77
+4,Final Exam,uZfhzJCf3Q,99
+4,Final Exam,2ruNWPmicg,37
+4,Final Exam,5xTn7laQAz,92
+4,Final Exam,UPLEFa48ob,20
+4,Final Exam,g0aGB2MNq6,63
+4,Final Exam,vMCwbZJ5UI,85
+4,Final Exam,P80TDV5kec,77
+4,Final Exam,UX8dL9oWOH,49
+4,Final Exam,erGZXNCSa8,91
+4,Final Exam,aKtF7xlCj,37
+4,Final Exam,OcbMCqoATE,71
+4,Final Exam,Ki437ImMiB,95
+4,Final Exam,VkA4Ln4RP8,76
+4,Final Exam,Vv5mvmR93y,88
+4,Final Exam,9mCMQL1myp,46
+4,Final Exam,FGVfybCruk,41
+4,Final Exam,ybgAEICak2,29
